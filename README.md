@@ -67,13 +67,12 @@ The program will display a formatted table showing all fighters with their fight
 -------------------------------------------------------------------------------------------------------------------------
 |                                              TEKKEN 2 FIGHTER                                                         |
 -------------------------------------------------------------------------------------------------------------------------
-|Nama                  |Fighting Style                                         |Hobby                          |
+|Nama                  |Fighting Style                                         |Hobby                                   |
 -------------------------------------------------------------------------------------------------------------------------
-|Lee Chaolan           |Martial Arts combined with Mishima Style Fighting Karate|Kick-scooter parading          |
-|Lei Wulong            |Five-form-based Chinese martial arts                   |Watching movies, taking naps   |
-...
+|Lee Chaolan           |Martial Arts combined with Mishima Fighting Karate     |Kick-scooter parading                   |
+|Lei Wulong            |Five-form-based Chinese martial arts                   |Watching movies, taking naps            |
 -------------------------------------------------------------------------------------------------------------------------
-|                                              Thank you                                                                |
+|                                                 Thank you                                                             |
 -------------------------------------------------------------------------------------------------------------------------
 ```
 
